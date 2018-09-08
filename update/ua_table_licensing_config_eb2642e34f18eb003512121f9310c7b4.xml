@@ -13,13 +13,13 @@
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-09-08 11:31:41</sys_created_on>
-        <sys_id>cc05ca234f18eb003512121f9310c778</sys_id>
+        <sys_id>eb2642e34f18eb003512121f9310c7b4</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_25075_devutil_table1</sys_name>
         <sys_package display_value="Developer Utility" source="x_25075_devutil">81ad7d2b4fd4eb003512121f9310c731</sys_package>
         <sys_policy/>
         <sys_scope display_value="Developer Utility">81ad7d2b4fd4eb003512121f9310c731</sys_scope>
-        <sys_update_name>ua_table_licensing_config_cc05ca234f18eb003512121f9310c778</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_eb2642e34f18eb003512121f9310c7b4</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2018-09-08 11:31:41</sys_updated_on>
     </ua_table_licensing_config>
